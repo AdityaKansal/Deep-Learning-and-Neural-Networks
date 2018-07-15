@@ -1,2 +1,2 @@
 # Deep-Learning-and-Neural-Networks
-Neural Networks Programs f
+This reporsitory contains all python deep learning programs.
